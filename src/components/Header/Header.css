@@ -5,16 +5,16 @@
     height: 50px;
 }
 .header nav {
-    background-color: black;
+    background-color: rgb(218, 238, 247);
     line-height: 40px;
 }
 .header nav a{
     text-decoration: none;
-    color: white;
+    color: rgb(134, 19, 19);
     margin-right: 20px;
     padding: 5px;
     font-size: 20px;
 }
 .header nav a:hover{
-    background-color: lightgray;
+    background-color: rgb(171, 124, 199);
 }
